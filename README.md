@@ -67,29 +67,3 @@ This project aims to predict arrest outcomes based on crime characteristics such
 - Install dependencies:
 ```bash
 pip install numpy pandas scikit-learn matplotlib seaborn
-
-
-## Repository Contents
-
-- `notebooks/Final_ML_Project.ipynb` — Full workflow (EDA → preprocessing → modeling → evaluation)
-- `docs/ML_Documentation.pdf` — Detailed project documentation
-- `docs/Chicago_Crime_Project_Deck.pdf` — Presentation deck
-
----
-
-## Notes / Ethical Considerations
-
-This project uses historical arrest data, which may reflect underlying reporting or enforcement biases. Any real-world use should include fairness checks, bias audits, and stakeholder review.
-
----
-
-## Team & Contributions
-
-Team project completed as part of a USF Machine Learning course. Contributions included data preparation, model development, documentation, and presentation.
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
