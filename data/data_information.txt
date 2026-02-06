@@ -1,0 +1,24 @@
+The data is taken from Chicago Data Portal
+Main Crime Data Source - https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-
+Present-Map/ahwe-kpsy
+The dataset comprises 220408 rows and 22 features that capture details about crimes and
+their outcomes.
+2
+Description of features:
+• ID: Unique identifier for the crime record.
+• Case Number: Unique Chicago Police Department record ID.
+• Date: Timestamp indicating when the crime occurred.
+• Block: Partially redacted address of the crime location.
+• IUCR & Primary Type: Illinois Uniform Crime Reporting code and general
+classification of the crime (e.g., THEFT, BATTERY).
+• Description: Detailed subcategory of the crime.
+• Location Description: Type of location where the crime occurred
+• Arrest & Domestic: Flags indicating if an arrest was made or if the incident was
+domestic-related.
+• Beat & District: Police geographic areas where the crime occurred.
+• Ward & Community Area: City council district and community area of the
+crime.
+• FBI Code: FBI classification of the crime type.
+• Coordinates: X, Y, latitude, and longitude of the crime location
+• Year & Updated On: Year of the crime and the last update to the record.
+• Location: Combined latitude and longitude for mapping.
