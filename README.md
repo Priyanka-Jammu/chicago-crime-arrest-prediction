@@ -76,7 +76,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 
 - `notebooks/Final_ML_Project.ipynb` — Full workflow (EDA → preprocessing → modeling → evaluation)
 - `docs/ML_Documentation.pdf` — Detailed project documentation
-- `docs/Chicago_Crime_Project_Deck.pdf` — Presentation deck
+- `docs/Chicago-Crime-PROJECT.pdf` — Presentation deck
 
 ---
 
